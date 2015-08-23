@@ -1,4 +1,4 @@
-ReadMe:
+# ReadMe:
 The main Rfile is run_analysis.R. In this code the other parts of program are calling by source() function. 
 
 There are five source() function which call this Rfile:
